@@ -1,8 +1,8 @@
 <?php
 
-//Cart class with get and set methods
+//Item class with get and set methods
 
-class Cart
+class Item
 {
     private $sku;
     private $quantity;
